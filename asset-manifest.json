@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/linar-samurai/static/css/main.65e87e5d.css",
+    "main.js": "/linar-samurai/static/js/main.6f9c60d3.js",
+    "static/js/787.efc216bc.chunk.js": "/linar-samurai/static/js/787.efc216bc.chunk.js",
+    "static/media/avatar_1.jpg": "/linar-samurai/static/media/avatar_1.9528c31891760108948a.jpg",
+    "static/media/anime.png": "/linar-samurai/static/media/anime.1b0d0dea2e2e734a2c28.png",
+    "index.html": "/linar-samurai/index.html",
+    "main.65e87e5d.css.map": "/linar-samurai/static/css/main.65e87e5d.css.map",
+    "main.6f9c60d3.js.map": "/linar-samurai/static/js/main.6f9c60d3.js.map",
+    "787.efc216bc.chunk.js.map": "/linar-samurai/static/js/787.efc216bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e87e5d.css",
+    "static/js/main.6f9c60d3.js"
+  ]
+}
